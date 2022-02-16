@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+    border-bottom: 1px solid #ffff;
+}
+.tinder-img{
+    object-fit: contain;
+    height: 40px;
+}
+.nav-icon{
+    padding: 20px;
+} 
