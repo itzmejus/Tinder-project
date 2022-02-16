@@ -16,6 +16,18 @@ function TinderCards() {
       name: "Christiano Ronaldo ",
       url: "https://images.indianexpress.com/2021/07/ronaldo-juventus.jpg",
     },
+    {
+      name: "Samjith ",
+      url: "https://media-exp1.licdn.com/dms/image/C4E03AQG7o3Z3R9Dpbw/profile-displayphoto-shrink_800_800/0/1639029147934?e=1650499200&v=beta&t=HiE7lWVLvD3IFzDlwtFgrXmgslT2h8BOzz3Q2Itp0dw",
+    },
+    {
+      name: "Navaneeth ",
+      url: "https://images.indianexpress.com/2021/07/ronaldo-juventus.jpg",
+    },
+    {
+      name: "Christiano Ronaldo ",
+      url: "https://images.indianexpress.com/2021/07/ronaldo-juventus.jpg",
+    },
   ]);
 
   const swiped = (direction, nameToDelete) => {
